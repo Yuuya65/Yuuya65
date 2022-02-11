@@ -2,7 +2,6 @@
 - 👀 I’m interested in programming. In particular, I love programming with JavaScript.
 
 - 🌱 I am enrolled in a vocational school and am currently studying programming. Recently, I made a character recognition program using Python.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... yuuya.reminisence@gmail.com
 
 <!---
